@@ -1,0 +1,50 @@
+body{
+	font-family: Montserrat;
+	background-color: #65E8FE;
+	margin: 0;
+}
+
+h1{
+	margin: auto;
+	text-align: center;
+	padding-top: 70px;
+	font-size: 30px;
+	width: 600px;
+	color: white;
+	text-shadow: 4px 0px 0px red;
+}
+
+h2{
+	margin: auto;
+	text-align: center;
+	margin-bottom: 60px;
+	font-size: 30px;
+	width: 800px;
+	color: white;
+	text-shadow: 4px 0px 0px red;
+}
+
+
+.gatito{
+	width: 1000px;
+	margin: auto;
+}
+
+img{
+	width:100%;
+}
+
+.boton{
+	width: 100px;
+	margin: auto;
+}
+
+a{
+	margin: auto;
+	font-size: 20px;
+	color: white;
+	font-weight: bolder;
+	border-radius: 10px;
+	border:solid 3px red;
+	padding: 5px;
+}
